@@ -99,7 +99,8 @@ To escalate our priv let's overwrite the file
 
 Run the root terminal
 >~$ sudo /usr/bin/python3 /home/meliodas/bak.py
-root@ubuntu:~# 
+
+>root@ubuntu:~# 
 
 root lag: e8c8c6c256c35515d1d344ee0488c617
 
